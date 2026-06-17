@@ -1,0 +1,8 @@
+name = "dumphone-notes"
+main = "src/index.ts"
+compatibility_date = "2024-05-04"
+
+# Fully public app, no bindings or secrets needed — notes are stored
+# entirely client-side in each visitor's own browser localStorage on
+# Cloud Phone's cloud-rendered Chromium instance, which persists data
+# the same way a desktop browser would.
