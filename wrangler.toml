@@ -1,4 +1,4 @@
-name = "dumphone-notes"
+name = "cloudphone-notes"
 main = "src/index.ts"
 compatibility_date = "2024-05-04"
 
